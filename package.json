@@ -1,6 +1,6 @@
 {
   "name": "ebcdic-code-page-converter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Converts between ASCII and EBCDIC for code pages 037, 500, and 1047.",
   "type": "module",
   "main": "src/index.js",
